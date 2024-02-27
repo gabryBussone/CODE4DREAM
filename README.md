@@ -1,11 +1,14 @@
 # Gameability
-This is a project by the team "CODE4DREAM"
-__Team Members:__
-  -Bussone Gabriel
-    -Leader and hand recognize
-  -Ansaldi Francesco
-    -Code and graphics
-  -Ciobanu Adrian
-    -General Graphics and code
-  -Risso Matteo
-    -Game Porgrammer
+
+Gameability is a project developed by the CODE4DREAM team.
+
+## Team Members
+
+- **Gabriel Bussone**
+  - *Role:* Leader and Hand Recognition
+- **Francesco Ansaldi**
+  - *Role:* Code and Graphics
+- **Adrian Ciobanu**
+  - *Role:* General Graphics and Code
+- **Matteo Risso**
+  - *Role:* Game Programmer
