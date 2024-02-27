@@ -1,16 +1,33 @@
 # Gameability
 
-Gameability is a project developed by the CODE4DREAM team.
+**Gameability** is a project crafted by the CODE4DREAM team.
 
 ## Team Members
 
 - **Gabriel Bussone**
-  - *Role:* Leader and Hand Recognition
+  - *Role:* Leadership and Hand Recognition
 - **Francesco Ansaldi**
-  - *Role:* Code and Graphics
+  - *Role:* Coding and Graphics
 - **Adrian Ciobanu**
-  - *Role:* General Graphics and Code
+  - *Role:* General Graphics and Coding
 - **Matteo Risso**
-  - *Role:* Game Programmer
-## Desciption
-Our project entails the development of a sophisticated 3D bowling game, wherein the mechanics of ball throwing are intricately integrated with the innovative LEAP motion controller. Through seamless interaction with the LEAP device, players experience an immersive and intuitive gaming interface, allowing for precise and natural ball movements as they aim for strikes and spares in a dynamic virtual bowling alley environment.
+  - *Role:* Game Programming
+
+## Description
+
+Our project revolves around the creation of an immersive 3D bowling experience. Leveraging the innovative LEAP motion controller, players can interact with the game environment through intuitive hand and arm movements. This seamless integration allows for precise control over ball trajectories, enhancing the gaming experience as players aim for strikes and spares in a dynamic virtual bowling alley.
+
+## Objective
+
+Our recent focus has been on developing a game tailored for individuals affected by multiple sclerosis. By incorporating arm and hand movements into the gameplay mechanics, our aim is to provide users with a platform for exercising and training these specific body parts.
+
+## Components
+
+- **Leap Motion Controller**
+
+## Software
+
+- **Unity**
+  - Unity Version: LTS 2022.3
+- **UltraLeap Gemini**
+  - Gemini Version: 5.7.2
