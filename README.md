@@ -19,6 +19,10 @@ Our project revolves around the creation of an immersive 3D bowling experience. 
 
 ## Objective
 
+Our primary objective is to provide individuals affected by multiple sclerosis with an immersive and therapeutic gaming experience. By leveraging the innovative LEAP motion controller, our aim is to empower users to engage in physical and cognitive exercises through intuitive hand and arm movements within the virtual environment of the bowling alley. We strive to create an accessible and enjoyable platform that not only entertains but also supports users in improving their motor skills, coordination, and overall well-being.
+
+## How to play?
+
 1. **Get the necessary materials**:
    - Ensure you have a Leap Motion and Unity installed on your computer.
 
