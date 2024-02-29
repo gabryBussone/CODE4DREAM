@@ -27,7 +27,7 @@ Our primary objective is to provide individuals affected by multiple sclerosis w
    - Ensure you have a Leap Motion and Unity installed on your computer.
 
 2. **Access the GitHub repository**:
-   - Visit the CODE4DREAM repository on GitHub at [insert repository address].
+   - Visit the CODE4DREAM repository on GitHub at [https://github.com/gabryBussone/CODE4DREAM].
 
 3. **Download the game**:
    - On the main repository page, locate the "Clone or download" button and click on it.
