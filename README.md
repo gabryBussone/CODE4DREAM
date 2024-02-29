@@ -25,6 +25,7 @@ Our primary objective is to provide individuals affected by multiple sclerosis w
 
 1. **Get the necessary materials**:
    - Ensure you have a Leap Motion and Unity installed on your computer.
+       -To install Unity, go to [https://unity.com/] and download the software. Then, select the version you need.
 
 2. **Access the GitHub repository**:
    - Visit the CODE4DREAM repository on GitHub at [https://github.com/gabryBussone/CODE4DREAM].
@@ -65,8 +66,6 @@ Our recent focus has been on developing a game tailored for individuals affected
   - Unity Version: LTS 2022.3
 - **UltraLeap Gemini**
   - Gemini Version: 5.7.2
- 
-Certainly! Here's a revised version with a bit more flair:
 
 ## Presentation
 To dive deeper into our project and explore our presentation, feel free to download the PDF file conveniently located in our repository. Alternatively, you can access the presentation directly through this [https://www.canva.com/design/DAF934FfPgw/DLhkeBLo43T07xxHnfnlhw/edit?utm_content=DAF934FfPgw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton].
