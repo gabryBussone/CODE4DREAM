@@ -102,6 +102,7 @@ Our recent focus has been on developing a game tailored for individuals affected
 ## Components
 
 - **Leap Motion Controller**
+- https://www.ultraleap.com/leap-motion-controller-whats-included/
 
 ## Software
 
