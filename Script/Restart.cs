@@ -6,7 +6,7 @@ using UnityEngine.SceneManagement;
 
 public class Restart : MonoBehaviour
 {
-    public Button restartButton; // Dichiarazione del bottone
+    public Button restartButton; // Button statement
 
     void Start()
     {
