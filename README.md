@@ -52,9 +52,52 @@ Our primary objective is to provide individuals affected by multiple sclerosis w
 8. **Modify (optional)**:
    - If you're interested in modifying the game, explore the source code and assets to make desired changes.
    - Make sure to follow the guidelines provided in the project documentation or repository instructions.
+  
+## Unity Bowling Game with Leap Motion - Project Overview
+
+*Project Description
+
+The team is undertaking an exciting project to develop a virtual bowling game using Unity and integrating Leap Motion technology. The primary goal is to create an immersive experience where players can use their hands to grab and release the ball, knocking down pins to score points.
+
+*Step-by-Step Development
+
+*1. Setting Up Unity Environment
+The team has successfully installed and configured the Unity development environment. This includes creating a new Unity project, configuring the scene, and importing necessary assets.
+
+*2. Integrating Leap Motion
+Collaboratively, the team has integrated Leap Motion into the Unity project. This involved installing the Leap Motion SDK, configuring hand tracking, and ensuring seamless interaction between hands and virtual objects.
+
+*3. Creating Bowling Alley Scene
+The team has made progress in designing the virtual bowling alley scene. This includes creating the bowling lane, placing pins, and setting up the overall environment for an engaging gameplay experience.
+
+*4. Ball Mechanics
+The team has worked on implementing the ball mechanics. This involves creating a realistic bowling ball, defining its physics, and ensuring that it responds accurately to user interactions.
+
+*5. Pin Knockdown and Scoring
+Significant progress has been made in developing the pin knockdown and scoring system. This includes detecting collisions between the ball and pins, tracking the number of knocked-down pins, and updating the player's score.
+
+*6. Hand Gesture Recognition
+Efforts have been directed towards refining hand gesture recognition. This includes detecting grabbing and releasing motions accurately, ensuring a natural and intuitive control scheme for the players.
+
+*7. Testing and Debugging
+The team has collaborated on thorough testing and debugging. This phase is crucial to identify and address any issues related to gameplay mechanics, user interaction, or performance.
+
+*8. User Interface (UI)
+Significant strides have been made in implementing a user-friendly interface, displaying scores, feedback, and relevant information during gameplay.
+
+*9. Polishing and Optimization
+The team has collectively worked on polishing the game, optimizing performance, and ensuring a smooth and enjoyable user experience.
+
+*10. Documentation and Presentation
+The team is currently contributing to documenting the project, providing clear instructions for future development, and preparing a presentation to showcase the Unity Bowling Game with Leap Motion.
+
+*Conclusion
+
+With a collaborative effort, the team aims to create a captivating and immersive bowling experience that showcases the capabilities of Unity and Leap Motion technology. Each team member's expertise contributes to the overall success of the project, promising an exciting and enjoyable virtual bowling game for users.
 
 
 Our recent focus has been on developing a game tailored for individuals affected by multiple sclerosis. By incorporating arm and hand movements into the gameplay mechanics, our aim is to provide users with a platform for exercising and training these specific body parts.
+
 
 ## Components
 
